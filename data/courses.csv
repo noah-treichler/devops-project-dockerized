@@ -1,0 +1,67 @@
+name,course_number,semester,average_gpa,professor_id
+Calculus I,MATH 1321,Fall 2022,3.2,10
+Calculus I,MATH 1321,Fall 2022,3.4,11
+Calculus I,MATH 1321,Fall 2022,3.5,12
+Calculus I,MATH 1321,Spring 2023,3.5,12
+Calculus I,MATH 1321,Spring 2023,3.6,13
+Calculus I,MATH 1321,Spring 2023,3.7,14
+Calculus I,MATH 1321,Fall 2023,3.6,14
+Calculus I,MATH 1321,Fall 2023,3.7,15
+Calculus I,MATH 1321,Fall 2023,3.8,16
+Calculus I,MATH 1321,Spring 2024,3.7,15
+Calculus I,MATH 1321,Spring 2024,3.8,16
+Calculus I,MATH 1321,Spring 2024,3.9,17
+Calculus II,MATH 1322,Fall 2023,3.7,19
+Calculus II,MATH 1322,Fall 2023,3.8,20
+Calculus II,MATH 1322,Fall 2023,3.9,21
+Calculus II,MATH 1322,Spring 2024,3.8,20
+Calculus II,MATH 1322,Spring 2024,3.9,21
+Calculus II,MATH 1322,Spring 2024,4.0,22
+Physics I,PHYS 1401,Fall 2022,3.1,4
+Physics I,PHYS 1401,Fall 2022,3.2,5
+Physics I,PHYS 1401,Fall 2022,3.3,6
+Physics I,PHYS 1401,Spring 2023,3.6,5
+Physics I,PHYS 1401,Spring 2023,3.7,6
+Physics I,PHYS 1401,Spring 2023,3.8,7
+Physics I,PHYS 1401,Fall 2023,3.3,6
+Physics I,PHYS 1401,Fall 2023,3.4,7
+Physics I,PHYS 1401,Fall 2023,3.5,8
+Physics I,PHYS 1401,Spring 2024,3.5,7
+Physics I,PHYS 1401,Spring 2024,3.6,8
+Physics I,PHYS 1401,Spring 2024,3.7,9
+Physics II,PHYS 1402,Fall 2023,3.2,9
+Physics II,PHYS 1402,Fall 2023,3.3,10
+Physics II,PHYS 1402,Fall 2023,3.4,11
+Physics II,PHYS 1402,Spring 2024,3.5,10
+Physics II,PHYS 1402,Spring 2024,3.6,11
+Physics II,PHYS 1402,Spring 2024,3.7,12
+Biology I,BIOL 1401,Fall 2022,3.4,11
+Biology I,BIOL 1401,Fall 2022,3.5,12
+Biology I,BIOL 1401,Fall 2022,3.6,13
+Biology I,BIOL 1401,Spring 2023,3.5,12
+Biology I,BIOL 1401,Spring 2023,3.6,13
+Biology I,BIOL 1401,Spring 2023,3.7,14
+Biology I,BIOL 1401,Fall 2023,3.6,13
+Biology I,BIOL 1401,Fall 2023,3.7,14
+Biology I,BIOL 1401,Fall 2023,3.8,15
+Biology I,BIOL 1401,Spring 2024,3.7,14
+Biology I,BIOL 1401,Spring 2024,3.8,15
+Biology I,BIOL 1401,Spring 2024,3.9,16
+Anatomy,BIOL 2401,Fall 2023,3.2,4
+Anatomy,BIOL 2401,Fall 2023,3.3,5
+Anatomy,BIOL 2401,Fall 2023,3.4,6
+Anatomy,BIOL 2401,Spring 2024,3.4,5
+Anatomy,BIOL 2401,Spring 2024,3.5,6
+Anatomy,BIOL 2401,Spring 2024,3.6,7
+Computer Science I,CSCI 1301,Fall 2022,3.5,6
+Computer Science I,CSCI 1301,Fall 2022,3.6,7
+Computer Science I,CSCI 1301,Fall 2022,3.7,8
+Computer Science I,CSCI 1301,Spring 2023,3.6,7
+Computer Science I,CSCI 1301,Spring 2023,3.7,8
+Computer Science I,CSCI 1301,Spring 2023,3.8,9
+Computer Science II,CSCI 1302,Fall 2023,3.6,10
+Computer Science II,CSCI 1302,Fall 2023,3.7,11
+Computer Science II,CSCI 1302,Fall 2023,3.8,12
+Computer Science II,CSCI 1302,Spring 2024,3.7,11
+Computer Science II,CSCI 1302,Spring 2024,3.8,12
+Computer Science II,CSCI 1302,Spring 2024,3.9,13
