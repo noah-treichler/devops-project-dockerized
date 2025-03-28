@@ -6,7 +6,7 @@ from database import SessionLocal, engine
 
 app = FastAPI(title="GPA Trends API")
 
-# Allow requests from your React app (running on http://localhost:3000)
+# Allow requests from React app
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:3000"],
@@ -26,7 +26,6 @@ def get_db():
 def get_courses(db: Session = Depends(get_db)):
     try:
         result = db.execute(text("SELECT * FROM courses;"))
-        # Use the _mapping attribute to convert each row into a dict
         courses = [dict(row._mapping) for row in result]
         return {"courses": courses}
     except Exception as e:
